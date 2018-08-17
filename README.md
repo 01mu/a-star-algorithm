@@ -1,6 +1,8 @@
 # a-star-algorithm
 A* algorithm sliding game solver
 
+Output:
+---
 ```
 Start state: 1 3 4 8 6 2 7 0 5 
 End state: 1 2 3 8 0 4 7 6 5 
