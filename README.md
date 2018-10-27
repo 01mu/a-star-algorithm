@@ -1,5 +1,5 @@
 # a-star-algorithm
-A* algorithm sliding game solver
+A* algorithm sliding game solver. Options for depth first branch and bound search with different heuristic options.
 
 Output:
 ---
